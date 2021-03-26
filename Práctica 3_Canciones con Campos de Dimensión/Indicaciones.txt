@@ -1,0 +1,2 @@
+Implemente la práctica anterior utilizando campos de dimensión
+Mismas restricciones.

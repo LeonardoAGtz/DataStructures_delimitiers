@@ -1,0 +1,31 @@
+Realize un programa que gestione la información de un catálogo de canciones, cada canción cuenta con: 
+-Nombre
+-Intérprete
+-Género
+
+EL programa implementará delimitadores por lo que todos los campos deberían ser cadenas. EL programa cuenta con menú:
+Agregar - Mostrar - Contar - Salir
+
+Restricciones: 
+a) El delimitador de campo será un salto de línea;
+b) El delimitador de registro serán 2 campos de línea;
+c) El programa deberá ser capaz de imprimir registros ingresados manualmente;
+d) Si listas;
+
+-----------------------------------------------------------------------------
+
+Implemente en la práctica anterior las siguientes opciones:
+
+a) Eliminacion Lógica
+b) Eliminacion Física
+c) Edición
+d) Búsqueda
+e) Activar Registro
+
+Restricciones:
+
+1) Las canciones tienen un id numerico autoincrementable
+2) En los archivos todos los datos son texto
+3) Todo se hace por código
+4) No se puede hacer nada con los desactivados
+5) Todos los campos son editables
